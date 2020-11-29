@@ -1,0 +1,2 @@
+# mindsweeper
+ok
